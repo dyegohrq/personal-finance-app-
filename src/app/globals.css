@@ -62,12 +62,12 @@ body {
 .textPresent-4 {
   @apply font-normal text-[14px] leading-[150%] tracking-normal;
 }
-.textPresent-4_bold {
+.textPresent-4-bold {
   @apply font-bold  text-[14px] leading-[150%] tracking-normal;
 }
 .textPresent-5 {
   @apply font-normal text-[12px] leading-[150%] tracking-normal;
 }
-.textPresent-5_bold {
+.textPresent-5-bold {
   @apply font-bold text-[12px] leading-[150%] tracking-normal;
 }
